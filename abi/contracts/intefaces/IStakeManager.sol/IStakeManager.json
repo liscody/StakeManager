@@ -1,0 +1,8 @@
+[
+  "function register() payable",
+  "function setConfiguration(uint256,uint256)",
+  "function slash(address,uint256)",
+  "function stake() payable",
+  "function unregister()",
+  "function unstake()"
+]
